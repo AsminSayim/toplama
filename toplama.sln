@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "toplama", "toplama\toplama.csproj", "{985C9A8B-DAE8-4B29-B370-74C6E5EA7323}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{985C9A8B-DAE8-4B29-B370-74C6E5EA7323}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{985C9A8B-DAE8-4B29-B370-74C6E5EA7323}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{985C9A8B-DAE8-4B29-B370-74C6E5EA7323}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{985C9A8B-DAE8-4B29-B370-74C6E5EA7323}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F5CDA7A-F93A-40AB-9EDD-4F32255BC312}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\toplama\toplama\bin\Debug\toplama.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\toplama\toplama\bin\Debug\toplama.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\toplama\toplama\bin\Debug\toplama.pdb
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\toplama\toplama\obj\Debug\toplama.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\toplama\toplama\obj\Debug\toplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\toplama\toplama\obj\Debug\toplama.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\toplama\toplama\obj\Debug\toplama.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\toplama\toplama\obj\Debug\toplama.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\toplama\toplama\obj\Debug\toplama.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\toplama\toplama\obj\Debug\toplama.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\toplama\toplama\obj\Debug\toplama.pdb
